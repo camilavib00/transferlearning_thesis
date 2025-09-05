@@ -1,0 +1,8 @@
+tensorflow>=2.10.0
+pytorch-lightning>=1.9.0
+simba_ml
+numpy
+scipy
+matplotlib
+pandas
+openpyxl
